@@ -1,0 +1,17 @@
+{
+  "name": "ASP INTERNATIONAL SCHOOL CITY Attendance",
+  "short_name": "ASP Attendance",
+  "description": "Digital QR Attendance System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
